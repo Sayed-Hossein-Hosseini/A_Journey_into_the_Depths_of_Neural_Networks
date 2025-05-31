@@ -1,11 +1,5 @@
 # ✨ A Journey into the Depths of Neural Networks: From Single Neurons to Convolutional Architectures ✨
 
-<p align="center">
-  <a href="https://colab.research.google.com/github/Sayed-Hossein-Hosseini/A_Journey_into_the_Depths_of_Neural_Networks/blob/main/YOUR_MAIN_NOTEBOOK_FOR_COLAB_LINK.ipynb"> <!-- Replace YOUR_MAIN_NOTEBOOK_FOR_COLAB_LINK.ipynb with the actual notebook if you want a direct Colab link -->
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-  </a>
-</p>
-
 This repository chronicles an immersive, step-by-step expedition into the fascinating world of neural networks. Starting from the fundamental building block—the single neuron—we progressively construct and demystify complex architectures, culminating in the implementation of powerful Convolutional Neural Networks (CNNs) using PyTorch. Each Jupyter notebook herein represents a distinct milestone in this learning odyssey, meticulously detailing concepts and code. All custom neural network components are built from scratch using NumPy, while the advanced CNN segment leverages the efficiency and capabilities of PyTorch.
 
 The **CIFAR-10 dataset** serves as the primary proving ground for all models developed throughout this project.
