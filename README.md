@@ -306,8 +306,6 @@ Contributions, issue reports, and feature requests are warmly welcomed! Your exp
 4.  Push to the Branch (`git push origin feature/AmazingFeature`).
 5.  Open a Pull Request.
 
-Please check the [issues page](https://github.com/Sayed-Hossein-Hosseini/A_Journey_into_the_Depths_of_Neural_Networks/issues) for existing ideas or to report new ones.
-
 ---
 
 ## 📜 Usage Rights: License
